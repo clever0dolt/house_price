@@ -1,4 +1,4 @@
-# house_price
+# house_price_prediction
 SOFTWARE AND TOOLS REQUIRED
 
  
