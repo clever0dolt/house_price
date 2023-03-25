@@ -29,7 +29,7 @@ def predict():
     final_input = scale.transform(np.array(data).reshape(1,-1))
     print(final_input)
     output = model.predict(final_input)[0]
-    return render_template("home.html",prediction_text = "House price is {} Lakhs".format(output))
+    return render_template("home.html",prediction_text = "House price in this particular area is estimated as {} Lakhs".format(output))
 
     print(data)
     print(np.array(list(data.values())).reshape(1,-1))
