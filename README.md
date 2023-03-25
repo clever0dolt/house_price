@@ -7,4 +7,4 @@ ML
 3. [VSCodeIDE](https://code.visualstudio.com/)
 
 
-Create a new environment
+Create a new environment with requirements
